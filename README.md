@@ -1,6 +1,166 @@
-# -mer-B-y-kkaya-
+# -Omer-Buyukkaya-
 Portofolyo
 <!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ömer Büyükkaya | Portfolio</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 3px solid #22c55e;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    color: #94a3b8;
+}
+
+/* SECTION */
+section {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h2 {
+    margin-bottom: 15px;
+    color: #22c55e;
+}
+
+.card {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* LIST */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 8px 0;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #020617;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <img src="profil.jpg" alt="Ömer">
+    <h1>Ömer Büyükkaya</h1>
+    <p>Kontrol ve Otomasyon | Arduino | STM32 | CNC</p>
+</header>
+
+<section>
+    <h2>Hakkımda</h2>
+    <div class="card">
+        21 yaşındayım. Kırıkkale Üniversitesi Kontrol ve Otomasyon bölümü 2. sınıf öğrencisiyim.
+        Elektronik ve makine alanlarına ilgim var. Sürekli yeni fikirler üretip projeler geliştirmeye çalışıyorum.
+        Arduino ve STM32 kartlarıyla aktif olarak çalışmalar yapıyorum.
+    </div>
+</section>
+
+<section>
+    <h2>İş Tecrübelerim</h2>
+    <div class="card">
+        <ul>
+            <li>BOTAŞ - Ölçüm ve Otomasyon Stajı</li>
+            <li>2 yıl CNC Torna ve CNC Freze deneyimi</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Projelerim</h2>
+    <div class="card">
+        <ul>
+            <li>🚗 Arduino ile Çizgi İzleyen Robot</li>
+            <li>🧠 AI Destekli Akademik Doğrulama Sistemi</li>
+            <li>📏 Ultrasonik Sensör ile Mesafe Ölçer</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Kullandığım Programlar</h2>
+    <div class="card">
+        <ul>
+            <li>AutoCAD</li>
+            <li>Proteus</li>
+            <li>TIA Portal</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Teknik Beceriler</h2>
+    <div class="card">
+        <ul>
+            <li>Multimetre kullanımı</li>
+            <li>Lehimleme</li>
+            <li>CNC Torna kullanımı</li>
+            <li>CNC Freze (3 eksen)</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Yabancı Dil</h2>
+    <div class="card">
+        İngilizce (B1)
+    </div>
+</section>
+
+<section>
+    <h2>İletişim</h2>
+    <div class="card">
+        📞 0551 166 20 78 <br>
+        📧 omerbuyukkaya57@gmail.com <br>
+        📷 Instagram: bykaya.omer
+    </div>
+</section>
+
+<footer>
+    © 2026 Ömer Büyükkaya
+</footer>
+
+</body>
+</html>
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
