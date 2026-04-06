@@ -1,6 +1,6 @@
 
 <header>
-  whatsapp.jpg   
+ border-radius: 12px i 
     <h1>Ömer Büyükkaya</h1>
     <p>Kontrol ve Otomasyon | Arduino | STM32 | CNC</p>
 </header>
