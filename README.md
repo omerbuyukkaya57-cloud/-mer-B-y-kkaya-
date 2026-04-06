@@ -1,6 +1,7 @@
 
 <header>
- whatsapp.jpg 
+  <img src="whatsapp.jpg" alt="Ömer Büyükkaya" class="hero-image" />
+  <a
     <h1>Ömer Büyükkaya</h1>
     <p>Kontrol ve Otomasyon | Arduino | STM32 | CNC</p>
 </header>
